@@ -1,0 +1,23 @@
+package tao.trading;
+
+public enum Symbol {
+	EURUSD, 
+	EURJPY,
+	EURCAD,
+	EURGBP,
+	EURCHF,
+	EURNZD,
+	EURAUD,
+	GBPAUD,
+	GBPNZD,
+	GBPUSD,
+	GBPCAD,
+	GBPCHF,
+	GBPJPY,
+	CHFJPY,
+	USDJPY,
+	USDCAD,
+	USDCHF,
+	CADJPY,
+	AUDUSD;
+}
